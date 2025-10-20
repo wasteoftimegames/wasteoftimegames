@@ -71,3 +71,5 @@ That’s when the grind stops being exciting — it becomes math, not adventure.
 | **Essential Gear Locked Behind RNG** | Need Infinity to progress | 2 × Ber = ~1/20M each |
 | **Insane Grind Times** | 143,000 runs for runes | ~500 hours+ |
 | **No Skill-Based Progression** | RNG > skill | Drops don’t scale with efficiency |
+
+{{< comments >}}

@@ -53,3 +53,5 @@ The game gives you a **false sensation of good speed progression** by giving you
 
 So in a normal game, you will be improving your base thinking it's a good strategy while waiting for that researcher for hours and hours to finish, and getting harder and harder raids and struggling to 
 survive, making the **game look challenging when it really isn't**.
+
+{{< comments >}}

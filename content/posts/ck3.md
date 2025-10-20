@@ -47,3 +47,5 @@ So if you want to wait **5 hours doing family micromanagement to get stuck in ar
 For example, to unlock civic key developments that can really change the rulers' behavior on the map, you need to wait until 1200. The game presents itself as a sandbox, but in reality, you have to play the historical way it was intended. **The challenges come from many arbitrary limitations so as not to break the narrative**.
 
 **You are not playing a sandbox, you are part of the the sandbox.**
+
+{{< comments >}}

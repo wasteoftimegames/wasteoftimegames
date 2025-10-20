@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Waste of Time Games</title>
-    <link>./docs/</link>
+    <link>https://wasteoftimegames.github.io/</link>
     <description>Recent content on Waste of Time Games</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="./docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wasteoftimegames.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crusader Kings III</title>
-      <link>./docs/posts/ck3/</link>
+      <link>https://wasteoftimegames.github.io/posts/ck3/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>./docs/posts/ck3/</guid>
+      <guid>https://wasteoftimegames.github.io/posts/ck3/</guid>
       <description>&lt;p&gt;Imagine you don&amp;rsquo;t have much time in your real life, so you want to play avoiding conflicts at an early stage that are very slow to solve. You want to start playing peacefully, make yourself very wealthy, and then crush your enemies decisively.&lt;/p&gt;&#xA;&lt;p&gt;You want a challenge, not starting with the most powerful at recent times, but to &lt;strong&gt;start small and early&lt;/strong&gt; and see the progression. There is no fun if there is no progression strategy!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diablo II</title>
-      <link>./docs/posts/diablo2/</link>
+      <link>https://wasteoftimegames.github.io/posts/diablo2/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>./docs/posts/diablo2/</guid>
+      <guid>https://wasteoftimegames.github.io/posts/diablo2/</guid>
       <description>&lt;h1 id=&#34;-why-grinding-in-diablo-ii-often-isnt-fun-by-the-numbers&#34;&gt;💀 Why Grinding in &lt;em&gt;Diablo II&lt;/em&gt; Often Isn’t Fun (by the Numbers)&lt;/h1&gt;&#xA;&lt;p&gt;Even though Diablo II is a classic, the way its grind works can make it feel more like punishment than reward. Let’s look at this through hard data and player experience.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-1-the-infinity-problem-numbers-that-break-motivation&#34;&gt;⚡ 1. The Infinity Problem (Numbers That Break Motivation)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Infinity&lt;/strong&gt; (the god-tier runeword for casters) is almost mandatory for efficient endgame farming.&lt;br&gt;&#xA;But getting it &lt;em&gt;legitimately&lt;/em&gt;? Let’s break down the math.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rimworld</title>
-      <link>./docs/posts/rimworld/</link>
+      <link>https://wasteoftimegames.github.io/posts/rimworld/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>./docs/posts/rimworld/</guid>
+      <guid>https://wasteoftimegames.github.io/posts/rimworld/</guid>
       <description>&lt;p&gt;Imagine you don&amp;rsquo;t have much time in your real life, so you want to make a fast run.&lt;/p&gt;&#xA;&lt;p&gt;You want to build the &lt;strong&gt;spaceship the fastest way possible&lt;/strong&gt;. You could wait for an event of a ship ready to fly, but that can make the run 5 min longer, and this is not fun.&lt;/p&gt;&#xA;&lt;p&gt;So you start with the most advanced option: 3 colonists, and you &lt;strong&gt;choose 2 of them very intelligent to progress fast in technology&lt;/strong&gt;. You choose mountains with caves in a temperate rainforest and you get a free house (cave) with a short entry to trap every raider.&lt;/p&gt;</description>
     </item>
   </channel>
